@@ -1,0 +1,23 @@
+body {
+    background-color: lightgoldenrodyellow;
+}
+
+.centerImg {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.center {
+    text-align: center;
+}
+
+.submitBox {
+    width: 30%
+}
+
+.eaten {
+    color: grey;
+    background-color: white;
+}
